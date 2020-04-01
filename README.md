@@ -3,7 +3,7 @@
 </div>
 
 # Declaration
-公有化前端体验委员会公告
+公有化前端建设委员会公告
 
 TODO-LIST
 - [ ] chartsQL数据解决方案
